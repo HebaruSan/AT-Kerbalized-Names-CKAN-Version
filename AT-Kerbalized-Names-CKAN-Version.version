@@ -1,0 +1,27 @@
+{
+  "NAME": "AtomicTech-Kerbalized-Names",
+  "URL": "https://github.com/JamesErvin-5/AT-Kerbalized-Names-CKAN-Version/AT-Kerbalized-Names-CKAN-Version.version",
+  "DOWNLOAD": "https://github.com/JamesErvin-5/AtomicTech-Kerbalized-Names/releases",
+  "GITHUB": {
+    "USERNAME": "JamesErvin-5",
+    "REPOSITORY": "AtomicTech-Kerbalized-Names"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 2,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 1,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 0,
+    "BUILD": 0
+  }
+}
